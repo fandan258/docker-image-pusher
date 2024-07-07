@@ -1,1 +1,2 @@
+bitnami/kafka:3.7.0
 apacheignite/ignite:2.15.0
