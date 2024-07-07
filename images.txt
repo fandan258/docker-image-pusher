@@ -1,1 +1,2 @@
 apacheignite/ignite:2.15.0
+kibana:7.17.14
