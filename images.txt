@@ -1,2 +1,1 @@
-grafana:10.2.0
 apacheignite/ignite:2.15.0
