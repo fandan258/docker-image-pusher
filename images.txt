@@ -1,1 +1,1 @@
-nginx:1.25.1
+apacheignite/ignite:2.15.0
