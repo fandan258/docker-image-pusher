@@ -1,2 +1,3 @@
 bitnami/kafka:3.7.0
 echo21bash/kafka-eagle:3.0.2
+apacheignite/ignite:2.15.0
